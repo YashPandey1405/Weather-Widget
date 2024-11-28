@@ -71,12 +71,3 @@ Ensure you have [Node.js](https://nodejs.org/en/) installed on your machine.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-```
-
-### Changes:
-1. **Deployment on Netlify**: Added a dedicated section on how the project is deployed on Netlify, explaining the steps to deploy and link GitHub with Netlify.
-2. **Acknowledgments**: Included **Netlify** in the acknowledgments section to credit the platform for hosting.
-
-This gives users full context about where the app is hosted and how to deploy their own copy using Netlify.
